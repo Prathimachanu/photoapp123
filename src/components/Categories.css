@@ -1,0 +1,93 @@
+.categories {
+  padding: 50px 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+@media only screen and (max-width: 768px) {
+  .categories {
+    padding: 50px 20px;
+  }
+}
+
+.categories h1 {
+  color: #000000; /* Change color to black */
+  font-size: 42px; /* Increase font size to 42px */
+  font-weight: 700; /* Reduce font weight to 700 */
+  margin-bottom: 20px; /* Increase margin-bottom to 20px */
+  text-align: center; /* Center-align text */
+  text-transform: uppercase; /* Uppercase text */
+  letter-spacing: 2px; /* Add letter spacing */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add text shadow for depth */
+  padding: 10px 20px; /* Add padding to create space between text and border */
+  border: 2px solid #000000; /* Add border around the heading */
+  border-radius: 10px; /* Add border radius to create rounded corners */
+}
+
+
+.categories p {
+  max-width: 700px;
+  font-size: 20px;
+}
+
+.categories .categories_list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 50px 0;
+  justify-content: center;
+  gap: 20px;
+}
+
+.categories .categories_list a {
+  text-decoration: none;
+}
+
+.categories .categories_list .category {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 200px;
+  cursor: pointer;
+  border-radius: 50%; /* Rounded corners */
+  overflow: hidden; /* Hide overflow to ensure perfect rounding */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
+}
+
+.categories .categories_list .category img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure images cover the entire container */
+}
+
+.categories .categories_list .category .overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6); /* Darken overlay */
+  opacity: 0; /* Initially transparent */
+  transition: opacity 0.3s ease-in-out; /* Fade animation */
+}
+
+.categories .categories_list .category .category_text {
+  position: relative;
+  color: white;
+  z-index: 1; /* Ensure text appears above overlay */
+}
+
+.categories .categories_list .category .category_text_icon {
+  font-size: 45px;
+}
+
+.categories .categories_list .category .category_text p {
+  font-weight: 600;
+}
+
+.categories .categories_list .category:hover .overlay {
+  opacity: 1; /* Show overlay on hover */
+}

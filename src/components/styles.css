@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+  margin: 0;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: calc(100vh - 50px); /* Adjust according to TopBar height */
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 25px; /* Increased margin to create more space */
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+button {
+  width: 300px;
+  padding: 10px;
+  border: none;
+
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkred;
+}

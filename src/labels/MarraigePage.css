@@ -1,0 +1,23 @@
+/* MarriagePage.css */
+
+.marriage-page {
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .marriage-page h1 {
+    font-size: 24px; /* Adjust heading font size */
+    margin-bottom: 20px; /* Add margin below heading */
+  }
+  
+  .marriage-page .image-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust column width */
+    gap: 10px; /* Add gap between images */
+  }
+  
+  .marriage-page .image-container img {
+    width: 100%; /* Ensure images fill their container */
+    height: auto; /* Maintain aspect ratio */
+    max-width: 200px; /* Set maximum width for small size */
+  }
+  
