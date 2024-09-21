@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Prathimachanu/photoapp%20.git/static/css/main.fb4c7d67.css",
+    "main.js": "/Prathimachanu/photoapp%20.git/static/js/main.f11a5e04.js",
+    "static/media/video2.mp4": "/Prathimachanu/photoapp%20.git/static/media/video2.e3ff2172c092c5d14119.mp4",
+    "static/media/video3.mp4": "/Prathimachanu/photoapp%20.git/static/media/video3.d12389d6532bf24f14ce.mp4",
+    "static/media/video1.mp4": "/Prathimachanu/photoapp%20.git/static/media/video1.cdf2d874f37e5568998a.mp4",
+    "static/media/marraige3.jpg": "/Prathimachanu/photoapp%20.git/static/media/marraige3.836912f502d5fef2813d.jpg",
+    "static/media/marraige1.jpg": "/Prathimachanu/photoapp%20.git/static/media/marraige1.dd375e0b7fe35dd44f11.jpg",
+    "static/media/gift1.jpg": "/Prathimachanu/photoapp%20.git/static/media/gift1.7d7587dca4ea82ba1712.jpg",
+    "static/media/gift2.jpg": "/Prathimachanu/photoapp%20.git/static/media/gift2.075f8ca97a87e9254602.jpg",
+    "static/media/birth1.jpeg": "/Prathimachanu/photoapp%20.git/static/media/birth1.732819e915604b912a14.jpeg",
+    "static/media/anni3.jpeg": "/Prathimachanu/photoapp%20.git/static/media/anni3.491d4585e5d2c07fe8d0.jpeg",
+    "static/media/anni1.jpeg": "/Prathimachanu/photoapp%20.git/static/media/anni1.f5577e7460cefd5fcb8c.jpeg",
+    "static/media/gift3.jpeg": "/Prathimachanu/photoapp%20.git/static/media/gift3.6d0e6884d9524a68640e.jpeg",
+    "static/media/slick.svg": "/Prathimachanu/photoapp%20.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Prathimachanu/photoapp%20.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Prathimachanu/photoapp%20.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Prathimachanu/photoapp%20.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Prathimachanu/photoapp%20.git/index.html",
+    "main.fb4c7d67.css.map": "/Prathimachanu/photoapp%20.git/static/css/main.fb4c7d67.css.map",
+    "main.f11a5e04.js.map": "/Prathimachanu/photoapp%20.git/static/js/main.f11a5e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4c7d67.css",
+    "static/js/main.f11a5e04.js"
+  ]
+}
