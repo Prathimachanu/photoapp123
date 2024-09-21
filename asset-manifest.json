@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Prathimachanu/photoapp%20.git/static/css/main.fb4c7d67.css",
-    "main.js": "/Prathimachanu/photoapp%20.git/static/js/main.f11a5e04.js",
+    "main.js": "/Prathimachanu/photoapp%20.git/static/js/main.0154f9a9.js",
     "static/media/video2.mp4": "/Prathimachanu/photoapp%20.git/static/media/video2.e3ff2172c092c5d14119.mp4",
     "static/media/video3.mp4": "/Prathimachanu/photoapp%20.git/static/media/video3.d12389d6532bf24f14ce.mp4",
     "static/media/video1.mp4": "/Prathimachanu/photoapp%20.git/static/media/video1.cdf2d874f37e5568998a.mp4",
@@ -19,10 +19,10 @@
     "static/media/slick.woff": "/Prathimachanu/photoapp%20.git/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Prathimachanu/photoapp%20.git/index.html",
     "main.fb4c7d67.css.map": "/Prathimachanu/photoapp%20.git/static/css/main.fb4c7d67.css.map",
-    "main.f11a5e04.js.map": "/Prathimachanu/photoapp%20.git/static/js/main.f11a5e04.js.map"
+    "main.0154f9a9.js.map": "/Prathimachanu/photoapp%20.git/static/js/main.0154f9a9.js.map"
   },
   "entrypoints": [
     "static/css/main.fb4c7d67.css",
-    "static/js/main.f11a5e04.js"
+    "static/js/main.0154f9a9.js"
   ]
 }
